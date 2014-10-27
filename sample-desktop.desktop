@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Exec=path/to/sh_or_exec_file
+Name=<name of application>
+Terminal=false
+Type=<application type>
+Icon=path/to/icon_file/this/could/be/svg_or_png
